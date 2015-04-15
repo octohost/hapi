@@ -13,5 +13,3 @@ cd hapi
 git remote add octohost git@ip.address.here:hapi.git
 git push octohost master
 ```
-
-Example site \(usually\) at [http://hapi.octohost.io](http://hapi.octohost.io)
